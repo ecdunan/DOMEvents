@@ -38,10 +38,7 @@ function toggleItem() {
 }
 
 function deleteListOnClick() {
-    var li = this.parentElement;
-    var ul = li.parentElement;
-
-    ul.removeChild(li);
+    this.parenElement.remove();
 }
 
 function createListDeleteButton(item) {
