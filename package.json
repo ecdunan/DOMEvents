@@ -1,0 +1,20 @@
+{
+  "name": "DOMEvents",
+  "version": "1.0.0",
+  "description": "Solution for DOM Events exercise on The Complete Web Developer in 2019: Zero to Mastery",
+  "main": "funclib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecdunan/DOMEvents.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecdunan/DOMEvents/issues"
+  },
+  "homepage": "https://github.com/ecdunan/DOMEvents#readme"
+}
